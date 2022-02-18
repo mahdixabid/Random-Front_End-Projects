@@ -1,2 +1,2 @@
 ### Live Demo 
-#### http://mahdixabid.tech/Calculator/
+#### https://mahdixabid.github.io/Calculator/index.html
